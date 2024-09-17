@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-for freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
-
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
