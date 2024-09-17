@@ -2,11 +2,6 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 if you are looking for a fraction CTO, please reach out to [email](mailto:dhruvpsg@gmail.com) :) coffee/tea 🥺👉👈
