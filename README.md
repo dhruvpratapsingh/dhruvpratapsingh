@@ -9,8 +9,8 @@ if you are looking for a fraction CTO, please reach out to [email](mailto:dhruvp
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
 🏆  123 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 0 tasks so far           
+🌸  Completed 1 tasks today           
+✅  Completed 1 tasks so far           
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
 
