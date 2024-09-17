@@ -24,7 +24,7 @@ if you are looking for a fraction CTO, please reach out to [email](mailto:dhruvp
 <!-- TODO-IST:END -->
 
 
-📈 my github stats
+📈 my github stats (Note: These don't include private repos such as "Thomson Reuters")
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhruvpratapsingh&show_icons=true&theme=gotham" alt="dhruvpratapsingh" />
 
