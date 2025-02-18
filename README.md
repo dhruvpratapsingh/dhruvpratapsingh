@@ -9,7 +9,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-if you are looking for a fraction CTO, please reach out to [email](mailto:dhruvpsg@gmail.com) :) coffee/tea 🥺👉👈
+if you are looking for a fractional CTO, please reach out to [email](mailto:dhruvpsg@gmail.com) :) coffee/tea 🥺👉👈
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
